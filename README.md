@@ -46,4 +46,4 @@ java Desafio
 
 <b>Exemplo de Uso</b><br><br>
 Ao executar o programa, você verá a seguinte saída inicial:
-
+<img src =  width = menu.png">
