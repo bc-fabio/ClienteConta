@@ -45,5 +45,6 @@ java Desafio
 ##
 
 <b>Exemplo de Uso</b><br><br>
-Ao executar o programa, você verá a seguinte saída inicial:
-<img src =  width = menu.png">
+Ao executar o programa, você verá a seguinte saída inicial:<br><br>
+<img align= "left" width="262" height="380" alt="image" src="menu.png" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ A partir daí, você pode interagir com o menu digitando o número da opção desejada e pressionando Enter.
